@@ -1,3 +1,4 @@
+while (rs.next())
 } catch (IOException e) {
 out.write(”aString”);
 public void fetch() throws SQLException, IOException
