@@ -1,3 +1,4 @@
+public void fetch() throws SQLException, IOException
 OracleJdbcTest test = new OracleJdbcTest();
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 ResultSet rs = ps.executeQuery();
