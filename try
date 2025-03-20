@@ -1,3 +1,4 @@
+public static void main(String[] args)
 test.init();
 public void fetch() throws SQLException, IOException
 OracleJdbcTest test = new OracleJdbcTest();
