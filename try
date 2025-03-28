@@ -1,3 +1,4 @@
+} finally {
 while (rs.next())
 } finally {
 String driverClass = "oracle.jdbc.driver.OracleDriver";
